@@ -1,0 +1,22 @@
+Version Control System (VCS), Git and Github
+
+1.  What is a VCS?
+    a.  Popular VCSs.
+
+2. What is Git?
+    a.  How to download and install Git?
+    b.  `git config --global user.name` and `git config --global user.email`
+
+3.  What is Github?
+    a. Creating a Github account
+    b. Remote repositories -- what are they and how are they created?
+
+4.  Working with Git and Github.
+    a.  Initializing a local Git repo.
+    b.  Staging changes.
+    c.  Commiting changes.
+    d.  Branching in a repo.
+    e.  Pushing local changes to Github (remote repos).
+    f.  Pulling changes from a remote repo locally.
+    f.  Forking a Github repo.
+    g.  Cloning Github repos locally.
